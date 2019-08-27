@@ -1,0 +1,2 @@
+# manual-scriptcase
+Manual colaborativo da ferramenta de desenvolvimento "Scriptcase". Criado a partir de apontamentos pessoais sobre a ferramenta disponibilizados para a comunidade, o projeto busca agregar informações sobre a ferramenta de desenvolvimento web que estejam dispersas (artigos em blogs, informações trocadas no fórum, links para videos, páginas do manual etc) para formar uma base de conhecimento colaborativa, estruturada, acessível e útil aos desenvolvedores
